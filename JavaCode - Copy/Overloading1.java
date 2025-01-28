@@ -9,7 +9,7 @@ public class Overloading1
 		System.out.println("Function for calling with mobile number");
 	    System.out.println("calling" + mobileNumber);	
 	}
-	public static void phoneCallByName(String name,int mobileNumber)
+	public static void phoneCallByName(String name,long mobileNumber)
 	{
 		System.out.println("Function for calling with name");
 	    System.out.println("calling" + name);	
